@@ -1,8 +1,7 @@
 #!/bin/bash
 
 # Define the directory to list
-DIRECTORY="$0"
-echo $DIRECTORY
+DIRECTORY="test_folder/"
 
 # # Check if the directory is provided
 # if [ -z "$DIRECTORY" ]; then
@@ -17,4 +16,5 @@ echo $DIRECTORY
 # fi
 
 # # List files with detailed information, including hidden files and human-readable sizes
-# ls -lha "$DIRECTORY"
+# ls -ld "$DIRECTORY"
+ls -l  "$DIRECTORY" | cut -d '' -f6-8 

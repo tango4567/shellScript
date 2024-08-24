@@ -12,4 +12,6 @@ GNU/Linux is used by millions, though many [call it <strong>“Linux”</strong>
 
 [Why Bother about commands?](https://linuxcommand.org/lc3_learning_the_shell.php)
 
+[Shell Scripting](https://www.shellscript.sh/)
+
 <strong>Note</strong>: This repository was created for learning purposes. If you notice any inaccuracies, I kindly ask that you suggest corrections or help me improve it..
